@@ -1,7 +1,0 @@
--classpath 'C:\\Snehal\\workspace\\adneom\\build\\classes\\main;C:\\Snehal\\workspace\\adneom\\build\\resources\\main'
--d 'C:\\Snehal\\workspace\\adneom\\build\\docs\\javadoc'
--doctitle 'adneom 1.0.0 API'
--quiet 
--windowtitle 'adneom 1.0.0 API'
-'C:\\Snehal\\workspace\\adneom\\src\\main\\java\\com\\adneom\\api\\PartitionCreator.java'
-'C:\\Snehal\\workspace\\adneom\\src\\main\\java\\com\\adneom\\exception\\InputException.java'
